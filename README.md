@@ -19,7 +19,7 @@ ecg_multimodal_diagnosis/
 │
 ├── data/                 # All raw & intermediate data sources
 │   ├── ptbxl/            # PTB-XL dataset for baseline validation
-│   ├── paperecg/         # Reproduction of ECG-FounDer or PaperECG pipelines
+│   ├── paperecg/         # image to digital signal converter 
 │   ├── clinical/         # Future integration: dialysis EHR & lab data
 │   └── intermediate/     # Cached and processed signals
 │

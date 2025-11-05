@@ -1,32 +1,14 @@
-﻿# Python
+﻿# Minimal temporary .gitignore for full upload
+
+# Python cache
 __pycache__/
-*.py[cod]
+*.pyc
 *.pyo
 *.so
 
-# Jupyter
+# Jupyter checkpoints
 .ipynb_checkpoints/
 
-# Environment
-.env
-.venv/
-*.env
-*.yml
-*.yaml
-
-# Data
-data/
-results/
-checkpoints/
-*.csv
-*.hdf5
-*.npy
-*.npz
-
-# OS
+# OS files
 .DS_Store
 Thumbs.db
-
-# IDE
-.vscode/
-.idea/
